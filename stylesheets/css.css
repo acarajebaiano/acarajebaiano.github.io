@@ -4,3 +4,18 @@
   font-weight: 900;
   src: local('Chivo Black'), local('Chivo-Black'), url(https://themes.googleusercontent.com/static/fonts/chivo/v4/uOXSiKkEygwkvR4cgUzOz_esZW2xOQ-xsNqO47m55DA.woff) format('woff');
 }
+
+.instalar {
+	margin: auto;
+}
+
+.btn {
+	border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+.btn a {
+	color: white;
+}
+.success {background-color: #32CD32;} /* Green */
